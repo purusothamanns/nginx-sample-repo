@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: 522814735753.dkr.ecr.us-east-2.amazonaws.com/lineaje-repo:20250218060024
+          image: 522814735753.dkr.ecr.us-east-2.amazonaws.com/lineaje-repo:20250220115621
           ports:
             - containerPort: 80
           env:
