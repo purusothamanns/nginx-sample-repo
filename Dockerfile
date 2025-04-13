@@ -1,1 +1,1 @@
-FROM amazoncorretto:8u442-al2-generic
+FROM amazoncorretto:8u302-al2
