@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
         - name: back-end
-          image: 440953937617.dkr.ecr.us-east-2.amazonaws.com/argo-aws-kustomize:80e683b88e078a53258496b237058c20c69cf43e
+          image: 440953937617.dkr.ecr.us-east-2.amazonaws.com/argo-aws-kustomize:605daefbb546223da45a9bf21e3996ef5a19d1b0
           ports:
             - containerPort: 80
           env:
